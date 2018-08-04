@@ -3,7 +3,8 @@
   "name": "IoanGhisoi",
   "homepage": "http://ioanghisoi.com/",
   "scripts": {
-    "start": "node app.js",
+    "heroku": "node app.js",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "eject": "react-scripts eject",
     "lint": "eslint \"**/*.{js,jsx}\""
