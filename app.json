@@ -1,0 +1,10 @@
+{
+    "name": "React Fun",
+    "description": "Demo app, REACT REDUX",
+    "repository": "https://github.com/ioan-ghisoi-cko/backend-server-example.git",
+    "keywords": [
+      "node",
+      "redux",
+      "react"
+    ]
+  }
